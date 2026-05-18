@@ -1,0 +1,22 @@
+.cella {
+    width: 60px;
+    height: 60px;
+    display: inline-block;
+    border: 1px solid black;
+    box-sizing: border-box;
+    font-size: 45px;
+    text-align: center;
+    line-height: 60px;
+}
+
+.fekete {
+    background-color: rgb(182, 166, 240);
+}
+
+.feher {
+    background-color: white;
+}
+
+.sor {
+    display: flex;
+}
